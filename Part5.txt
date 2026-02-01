@@ -9,3 +9,11 @@
 これだけでパート5のSVC問題の 9割以上カバーできる。
 この動詞の後ろが空白であれば、まず形容詞を疑う
 例外的に名詞が入る場合もある
+
+TOEICでは be + 過去分詞 + to/for の形はほぼ「形容詞」扱い。
+例：
+• be related to
+• be dedicated to
+• be satisfied with
+• be known for
+• be suited to ←今回これ
