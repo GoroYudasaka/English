@@ -40,3 +40,15 @@ require の後ろは名詞が基本
 これを知っているだけで秒速。
 
 数詞を修飾するのは副詞
+
+倒置（inversion）まとめ（TOEIC用・10行）
+1. 文頭が過去分詞・形容詞・副詞句で始まると倒置のサイン。
+2. その後に be動詞＋主語 が来る形が典型。
+3. 例：Enclosed with this letter is a survey.
+4. 例：Included in the package are the instructions.
+5. 例：Located downtown is our new office.
+6. 文頭の語は「主語を説明する形容詞（状態）」として機能する。
+7. 本来の語順は「主語＋be動詞＋補語（過去分詞句）」。
+8. 強調や文のリズムのために補語を前に出しているだけ。
+9. 選択肢は 過去分詞（形容詞扱い） が正解になりやすい。
+10. 文頭に“違和感のある語”が来たら「倒置かも」と疑うのがコツ。
