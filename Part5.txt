@@ -55,4 +55,7 @@ require の後ろは名詞が基本
 
 述語
 take over :引き継ぐ
+have in mind :考えている
+put away :片付ける
+
 
